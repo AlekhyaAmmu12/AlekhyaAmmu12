@@ -1,8 +1,8 @@
 # 💫 About Me:
-✨ Passionate about Full Stack Development using MERN, Django, and Java
-💻 Building projects in Web Development, REST APIs, and Database Management
-🚀 Interested in learning new technologies and solving real-world problems through code
-📚 Continuously improving skills in Python, React, Java, and Backend Development
+✨ Passionate about Full Stack Development using MERN, Django, and Java<br/>
+💻 Building projects in Web Development, REST APIs, and Database Management<br/>
+🚀 Interested in learning new technologies and solving real-world problems through code<br/>
+📚 Continuously improving skills in Python, React, Java, and Backend Development<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alekhya-8346572b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alekhya197503@gmail.com) 
